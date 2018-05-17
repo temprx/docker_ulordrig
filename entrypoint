@@ -1,0 +1,6 @@
+#!/bin/sh -e
+
+/ulordrig/build/ulordrig -o stratum+tcp://test-pool.ulord.one:7200 -u ug2vVSuZWqPg47xHBz1zkpwDCtCUAEn8v5.fabius8 -p x -t 1
+
+
+
