@@ -5,18 +5,6 @@ RUN apt-get update \
     && apt-get install --no-install-recommends -y \
     software-properties-common \
     build-essential \
-    libtool \
-    autotools-dev \
-    automake pkg-config \
-    libssl-dev \
-    libevent-dev \
-    bsdmainutils \
-    libboost-system-dev \
-    libboost-filesystem-dev \
-    libboost-chrono-dev \
-    libboost-program-options-dev \
-    libboost-test-dev \
-    libboost-thread-dev \
     libuv1-dev \
     libmicrohttpd-dev \
     cmake \
