@@ -1,6 +1,5 @@
 #!/bin/bash
 
-       #-e POOL_ADDRESS=117.45.165.141:7200 \ \
 docker build -t fabius8/ulordrig .
 
 echo "start to run ulordrig"
