@@ -18,5 +18,10 @@ RUN cd ulordrig \
     && cmake .. \
     && make
 
+ENV POOL_ADDRESS=117.45.165.141:7200
+ENV PAYMENT_ADDRESS=ug2vVSuZWqPg47xHBz1zkpwDCtCUAEn8v5
+ENV NAME=noname
+ENV THREADS=1
+
 ADD entrypoint /
 CMD ["/entrypoint"]
