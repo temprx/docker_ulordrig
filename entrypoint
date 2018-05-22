@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-/ulordrig/build/ulordrig -l /ulordrig.log -o stratum+tcp://${POOL_ADDRESS} -u ${PAYMENT}.${NAME} -p x -t ${THREADS}
+/ulordrig/build/ulordrig -l /ulordrig.log
 
 
 

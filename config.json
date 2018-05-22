@@ -1,0 +1,12 @@
+{
+    "threads":1,                                 // number of miner threads
+    "pools": [
+        {
+            "url": "stratum+tcp://117.45.165.141:7100",                // URL of mining server
+            "user": "Ueu1uHib13ch5wi8CaC35RWjJgz2p1gtDR.fabius8",   // username for mining server
+            "pass": "x"                                            // password for mining server
+
+        }
+    ]
+
+}
