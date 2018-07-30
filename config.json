@@ -2,8 +2,8 @@
     "threads":3,                                 // number of miner threads
     "pools": [
         {
-            "url": "stratum+tcp://ulord.yunchi.pro:7100",                // URL of mining server
-            "user": "Udmimx73CEsapxnUrvtVPYRXopU97GPDQa.inter_i5",   // username for mining server
+            "url": "stratum+tcp://u1pool.com:18888",                // URL of mining server
+            "user": "UgbvSEq9WJMCm2peL9FvzS7h4Qtda9DUNz",   // username for mining server
             "pass": "x"                                            // password for mining server
 
         }
